@@ -1,0 +1,32 @@
+/Vortraegen
+├── data/
+│   │   ├── co2_stahl_1990-2023.csv
+│   ├── gesamtproduktion.csv
+│   ├── Länder Stahlerzeugung.csv
+│   ├── verbrauch_pro_kopf.csv
+│   ├── alt_Stahlproduktion mit grünem Wasserstoff.csv
+│   ├── alt_emissionen.csv
+│   ├── alt_herst_verfahren.csv
+│   ├── alt_Prognose der Recyclingquote bis 2050 nach Region.csv
+│   ├── alt_produktion_land.csv
+│   ├── alt_Prognose_globalen_Stahlschrott.csv
+│   ├── alt_Prognose_politische_Maßnahme.csv
+│   ├── alt_stahlhandel.csv
+│   └── alt_stahlpreis.csv
+├── src/
+│   ├── co2_stahl_2024-2035_prognose.py
+│   ├── produktionsvohersage_prognose2024-2035.py
+│   └── stahl_ml_prognose.py
+│   └── alt_Stahlproduktion mit grünem Wasserstoff.py
+│   └── alt_Prognose der Recyclingquote bis 2050 nach Region.py
+│   └── alt_Prognose_globalen_Stahlschrott.py
+│   └── alt_Prognose_politische_Maßnahme.py
+├── gui/
+│   ├── app.py
+│   └── static/
+         └── style.css
+├── outputs/
+│   └── .gitkeep
+├── .gitignore
+├── README.md
+└── requirements.txt
